@@ -48,7 +48,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(https://gamepadviewer.com/xbox-assets/abxy.svg);
+  background: url(https://raw.githubusercontent.com/kfh861104/test/main/abxy.png);
 }
 .edit .button.pressed {
     background-position-y: -48px;
