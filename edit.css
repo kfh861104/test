@@ -3,7 +3,7 @@
 }
 
 .edit.disconnected {
-  background: url(disconnected.svg);
+  background: url(https://raw.githubusercontent.com/kfh861104/test/main/disconnected.svg);
 }
 
 .edit .quadrant {
