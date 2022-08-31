@@ -1,9 +1,9 @@
 .controller.edit {
-  background: url(xbox-white.png); 
+  background: url(base-white.png); 
 }
 
 .edit.disconnected {
-  background: url(https://gamepadviewer.com/xbox-assets/disconnected.svg);
+  background: url(disconnected.svg);
 }
 
 .edit .quadrant {
