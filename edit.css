@@ -2,7 +2,7 @@
   background: url(base-white.png); 
 }
 
-.edit.disconnected {
+/* .edit.disconnected {
   background: url(https://gamepadviewer.com/xbox-assets/disconnected.svg);
 }
 
@@ -50,7 +50,7 @@
   position: absolute;
   background: url(https://gamepadviewer.com/xbox-assets/abxy.svg);
 }
-
+ */
 .edit .button.pressed {
     background-position-y: -48px;
     margin-top: 5px;
