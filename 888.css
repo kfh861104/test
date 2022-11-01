@@ -10,7 +10,7 @@
     -webkit-animation-fill-mode: forwards ;
 }
 .custom.disconnected { 
-    background: url(Pink-Base.png), url('Pink-Base.png');
+    background: url(SBase.png), url('Pink-Base.png');
     filter: hue-rotate(10deg) contrast(40%) saturate(80%);
     background-repeat:no-repeat;
 }
