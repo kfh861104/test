@@ -23,7 +23,7 @@ portfolio, web site, display, advertisement, and editorial use.
     -webkit-animation-fill-mode: forwards ;
 }
 .custom.disconnected { 
-    background: url(base.png), url('Pink-Base.png');
+    background: url(dis.png), url('Pink-Base.png');
     filter: hue-rotate(10deg) contrast(40%) saturate(80%);
     background-repeat:no-repeat;
 }
